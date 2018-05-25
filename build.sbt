@@ -10,8 +10,6 @@ scalaVersion := "2.11.11"
 
 libraryDependencies ++= Seq( javaJdbc , cache , javaWs )
 
-javaOptions ++= Seq("-javaagent:/Users/brigita/newrelic/newrelic.jar")
-
 unmanagedResourceDirectories in Test <+=  baseDirectory ( _ /"target/web/public/test" )
 
 //routesGenerator := StaticRoutesGenerator
