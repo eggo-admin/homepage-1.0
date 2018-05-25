@@ -1,0 +1,36 @@
+[debug] [naha] 
+[debug] [naha] Initial source changes: 
+[debug] [naha] 	removed:Set()
+[debug] [naha] 	added: Set(/Users/brigita/dev/test/test/ApplicationTest.java, /Users/brigita/dev/test/test/IntegrationTest.java)
+[debug] [naha] 	modified: Set()
+[debug] [naha] Invalidated products: Set()
+[debug] [naha] External API changes: API Changes: Set()
+[debug] [naha] Modified binary dependencies: Set()
+[debug] [naha] Initial directly invalidated sources: Set(/Users/brigita/dev/test/test/ApplicationTest.java, /Users/brigita/dev/test/test/IntegrationTest.java)
+[debug] [naha] 
+[debug] [naha] Sources indirectly invalidated by:
+[debug] [naha] 	product: Set()
+[debug] [naha] 	binary dep: Set()
+[debug] [naha] 	external source: Set()
+[debug] All initially invalidated sources: Set(/Users/brigita/dev/test/test/ApplicationTest.java, /Users/brigita/dev/test/test/IntegrationTest.java)
+[debug] [naha] Initial set of included nodes: Set(/Users/brigita/dev/test/test/ApplicationTest.java, /Users/brigita/dev/test/test/IntegrationTest.java)
+[debug] [naha] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources
+[info] Compiling 2 Java sources to /Users/brigita/dev/test/target/scala-2.11/test-classes...
+[debug] Attempting to call com.sun.tools.javac.api.JavacTool@724b0d5a directly...
+[error] /Users/brigita/dev/test/test/ApplicationTest.java:19: package org.fest.assertions does not exist
+[error] import static org.fest.assertions.Assertions.*;
+[error] /Users/brigita/dev/test/test/IntegrationTest.java:8: package org.fest.assertions does not exist
+[error] import static org.fest.assertions.Assertions.*;
+[error] /Users/brigita/dev/test/test/ApplicationTest.java:33: cannot find symbol
+[error]   symbol:   method assertThat(int)
+[error]   location: class ApplicationTest
+[error]         assertThat(a).isEqualTo(2);
+[error] /Users/brigita/dev/test/test/ApplicationTest.java:38: cannot find symbol
+[error]   symbol:   class Content
+[error]   location: class ApplicationTest
+[error]         Content html = views.html.index.render("Your new application is ready.");
+[error] /Users/brigita/dev/test/test/IntegrationTest.java:20: cannot find symbol
+[error]   symbol:   class Callback
+[error]   location: class IntegrationTest
+[error]         running(testServer(3333, fakeApplication(inMemoryDatabase())), HTMLUNIT, new Callback<TestBrowser>() {
+[error] (test:compileIncremental) javac returned nonzero exit code
