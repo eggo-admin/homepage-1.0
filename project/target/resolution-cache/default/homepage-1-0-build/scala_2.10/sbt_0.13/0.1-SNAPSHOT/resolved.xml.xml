@@ -4,7 +4,7 @@
 		module="homepage-1-0-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20180526195331"
+		publication="20180526200426"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
