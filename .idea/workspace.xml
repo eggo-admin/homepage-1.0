@@ -559,6 +559,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/test/FunctionalTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/test/UnitTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../../templates/media-queries-cheat-sheet.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../app/controllers/Application.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../app/views/index.scala.html" afterPath="" />
@@ -566,77 +567,6 @@
       <change beforePath="$PROJECT_DIR$/../build.sbt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../conf/application.conf" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../conf/routes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$17d489d70706a0db1fb7$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$17d489d70706a0db1fb7.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$17d489d70706a0db1fb7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8ef5472e0a31e11426f9$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8ef5472e0a31e11426f9$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8ef5472e0a31e11426f9.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8ef5472e0a31e11426f9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$df15a55e9f312c93023a$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$df15a55e9f312c93023a$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$df15a55e9f312c93023a.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$df15a55e9f312c93023a.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$44817f1b8cd296392a12$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$44817f1b8cd296392a12$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$44817f1b8cd296392a12.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$44817f1b8cd296392a12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$476dceb3b32c5250d209$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$476dceb3b32c5250d209$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$476dceb3b32c5250d209.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$476dceb3b32c5250d209.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bae438d241af85d2ad7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bae438d241af85d2ad7$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bae438d241af85d2ad7.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bae438d241af85d2ad7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ecf2082323c154e02c5$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ecf2082323c154e02c5$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ecf2082323c154e02c5.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ecf2082323c154e02c5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$$anonfun$test$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$$anonfun$test$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$$anonfun$test$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$$anonfun$test$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba4c7f1d571759aadeee$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba4c7f1d571759aadeee$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba4c7f1d571759aadeee.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba4c7f1d571759aadeee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1e075033913a748cb8b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1e075033913a748cb8b$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1e075033913a748cb8b.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1e075033913a748cb8b.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/homepage-1-0-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/homepage-1-0-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/homepage-1-0-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/homepage-1-0-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-docs.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-sources.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-test.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/../project/build.properties" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../project/plugins.sbt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../public/images/bckg-img.jpg" afterPath="" />
@@ -1034,50 +964,50 @@
       <workItem from="1526988271591" duration="578000" />
       <workItem from="1527243246595" duration="398000" />
       <workItem from="1527360656349" duration="1064000" />
-      <workItem from="1527362003241" duration="21000" />
+      <workItem from="1527362003241" duration="154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31611000" />
+    <option name="totallyTimeSpent" value="31744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="22" width="1630" height="1028" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.49937028" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5006297" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.48992443" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24496222" sideWeight="0.7679389" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.497558" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5006297" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.48992443" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24496222" sideWeight="0.7679389" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23137973" sideWeight="0.23206107" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.497558" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.497558" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32958034" sideWeight="0.492674" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1113,6 +1043,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,6 +1059,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="77" lean-forward="false" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,6 +1075,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1166,6 +1099,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="77" lean-forward="true" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1196,6 +1130,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1211,6 +1146,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1241,6 +1177,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="94" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="94" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1333,6 +1270,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1427,6 +1365,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-228">
           <caret line="137" column="27" lean-forward="false" selection-start-line="137" selection-start-column="27" selection-end-line="137" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
