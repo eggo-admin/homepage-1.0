@@ -559,161 +559,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/test/FunctionalTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/test/UnitTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../../templates/media-queries-cheat-sheet.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9a7768e451b403945326.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e763953d45d75a11039d.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$0cd019ca2e68a26c618e.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4ce70f558af27c97307d.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8959da7839813ec02515.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$902489e0b7b767395cb6.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$aab9dbad86045a8321f3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$b558162d633bcbd78ff3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$dc87c4188880b3546cf3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/controllers/Application.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/controllers/ReverseApplication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/controllers/ReverseAssets.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/controllers/javascript/ReverseApplication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/controllers/javascript/ReverseAssets.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/controllers/routes$javascript.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/controllers/routes.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes$$anonfun$documentation$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Assets_at1_invoker$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes$$anonfun$routes$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/Routes.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/RoutesPrefix$$anonfun$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/RoutesPrefix$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/router/RoutesPrefix.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/index$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/index.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/index_Scope0$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/index_Scope0$index$$anonfun$f$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/index_Scope0$index.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/index_Scope0.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main_Scope0$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main_Scope0$main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/views/html/main_Scope0.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/routes/main/controllers/routes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/routes/main/router/Routes.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/routes/main/router/RoutesPrefix.scala" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$17d489d70706a0db1fb7$.class" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e763953d45d75a11039d$.class" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$17d489d70706a0db1fb7.cache" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$41085209a7689bafdbb9.cache" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$17d489d70706a0db1fb7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8ef5472e0a31e11426f9$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$41085209a7689bafdbb9$$anonfun$$sbtdef$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8ef5472e0a31e11426f9$.class" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$41085209a7689bafdbb9$.class" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8ef5472e0a31e11426f9.cache" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9a7768e451b403945326.cache" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8ef5472e0a31e11426f9.class" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$41085209a7689bafdbb9.class" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$df15a55e9f312c93023a$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9a7768e451b403945326$$anonfun$$sbtdef$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$df15a55e9f312c93023a$.class" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$9a7768e451b403945326$.class" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$df15a55e9f312c93023a.cache" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$e763953d45d75a11039d.cache" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$df15a55e9f312c93023a.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$44817f1b8cd296392a12$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$dc87c4188880b3546cf3$$anonfun$$sbtdef$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$44817f1b8cd296392a12$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$dc87c4188880b3546cf3$.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$44817f1b8cd296392a12.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$0cd019ca2e68a26c618e.cache" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$44817f1b8cd296392a12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$476dceb3b32c5250d209$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$aab9dbad86045a8321f3$$anonfun$$sbtdef$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$476dceb3b32c5250d209$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$aab9dbad86045a8321f3$.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$476dceb3b32c5250d209.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$8959da7839813ec02515.cache" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$476dceb3b32c5250d209.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bae438d241af85d2ad7$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$0cd019ca2e68a26c618e$$anonfun$$sbtdef$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bae438d241af85d2ad7$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$0cd019ca2e68a26c618e$.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bae438d241af85d2ad7.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$902489e0b7b767395cb6.cache" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bae438d241af85d2ad7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ecf2082323c154e02c5$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$8959da7839813ec02515$$anonfun$$sbtdef$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ecf2082323c154e02c5$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$8959da7839813ec02515$.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ecf2082323c154e02c5.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$aab9dbad86045a8321f3.cache" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ecf2082323c154e02c5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$769cb52921aac34fd9ae$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$769cb52921aac34fd9ae$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$769cb52921aac34fd9ae$$anonfun$$sbtdef$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$769cb52921aac34fd9ae$$anonfun$$sbtdef$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$769cb52921aac34fd9ae$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$769cb52921aac34fd9ae.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$b558162d633bcbd78ff3.cache" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$769cb52921aac34fd9ae.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$$anonfun$test$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$4ce70f558af27c97307d$$anonfun$test$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$$anonfun$test$2.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$4ce70f558af27c97307d$$anonfun$test$2.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$$anonfun$test$3.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$4ce70f558af27c97307d$$anonfun$test$3.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$$anonfun$test$4.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$4ce70f558af27c97307d$$anonfun$test$4.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$4ce70f558af27c97307d$.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$4ce70f558af27c97307d.cache" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b4176d37af9c18d4d5a0.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba4c7f1d571759aadeee$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$b558162d633bcbd78ff3$$anonfun$$sbtdef$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba4c7f1d571759aadeee$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$b558162d633bcbd78ff3$.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba4c7f1d571759aadeee.cache" afterPath="$PROJECT_DIR$/project/target/config-classes/$dc87c4188880b3546cf3.cache" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba4c7f1d571759aadeee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1e075033913a748cb8b$$anonfun$$sbtdef$1.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$902489e0b7b767395cb6$$anonfun$$sbtdef$1.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1e075033913a748cb8b$.class" afterPath="$PROJECT_DIR$/project/target/config-classes/$902489e0b7b767395cb6$.class" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1e075033913a748cb8b.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1e075033913a748cb8b.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/homepage-1-0-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/homepage-1-0-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/homepage-1-0-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/homepage-1-0-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-docs.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-sources.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-homepage-1-0-build-test.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-docs.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-sources.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-test.xml" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/test/test_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/test/test_2.11/1.0/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/target/resolution-cache/test/test_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/test/test_2.11/1.0/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/twirl/main/views/html/index.template.scala" afterPath="$PROJECT_DIR$/target/scala-2.11/twirl/main/views/html/index.template.scala" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/twirl/main/views/html/main.template.scala" afterPath="$PROJECT_DIR$/target/scala-2.11/twirl/main/views/html/main.template.scala" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/playRoutes/$global/streams/op-cache" afterPath="$PROJECT_DIR$/target/streams/compile/playRoutes/$global/streams/op-cache" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/web-assets/assets/$global/streams/sync-mappings" afterPath="$PROJECT_DIR$/target/streams/web-assets/assets/$global/streams/sync-mappings" />
-      <change beforePath="$PROJECT_DIR$/target/streams/web-assets/webExportedDirectory/$global/streams/sync-mappings" afterPath="$PROJECT_DIR$/target/streams/web-assets/webExportedDirectory/$global/streams/sync-mappings" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../app/controllers/Application.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../app/views/index.scala.html" afterPath="" />
@@ -1127,12 +973,12 @@
       <workItem from="1525266516381" duration="22000" />
       <workItem from="1526988271591" duration="578000" />
       <workItem from="1527243246595" duration="398000" />
-      <workItem from="1527360656349" duration="638000" />
+      <workItem from="1527360656349" duration="859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31164000" />
+    <option name="totallyTimeSpent" value="31385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="22" width="1630" height="1028" extended-state="6" />
