@@ -56,8 +56,8 @@ Seq[Any](format.raw/*2.19*/("""
 object index extends index_Scope0.index
               /*
                   -- GENERATED --
-                  DATE: Thu Mar 01 12:26:14 GMT 2018
-                  SOURCE: /Users/brigita/dev/test/app/views/index.scala.html
+                  DATE: Sat May 26 19:53:43 IST 2018
+                  SOURCE: /Users/brigita/Dev/test/homepage-1.0/app/views/index.scala.html
                   HASH: af06018d9d2598ab03676ee2171e3b40ae9b0982
                   MATRIX: 745->2|857->19|885->22|905->34|944->36|976->43|990->49|1043->82|1075->85
                   LINES: 27->2|32->2|34->4|34->4|34->4|36->6|36->6|36->6|38->8
