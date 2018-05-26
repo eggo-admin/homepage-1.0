@@ -2,9 +2,703 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77e8b492-5eb2-4af9-9596-ba9d16ba1dd4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/views/main.scala.html" afterPath="$PROJECT_DIR$/app/views/main.scala.html" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/main.css" afterPath="$PROJECT_DIR$/public/stylesheets/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/basic-bootstrap-responsive-div.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/basic-bootstrap-responsive-div.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/bootstrap-footer-two-col-img-text.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/bootstrap-one-column-html-template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/bootstrap-one-column-template-css.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/bootstrap3.0.0-navigation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/homepage1.0-eggo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/numbers-1-img.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/numbers-2-img.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/tutorial-bootstrap 4-1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/tutorial-bootstrap 4-2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../Bootstrap/tutorial-bootstrap-4-3-cards-nav.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../DNS settings/DNS Records - 17042018.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../DNS settings/MX record.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/300x300px-72-canvas.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/CoffeeShop/coffee-shop_darkBody_1.9.2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/CoffeeShop/coffee-shop_darkBody_1.9.2_iPadPro.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/CoffeeShop/coffee-shop_heroImage_1.9.2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/CoffeeShop/coffee-shop_lightBody_1.9.2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/CoffeeShop/readme.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/CoffeeShop/sushis_customized_v1.1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/Free_Fir_Vectors/Free-Fir-Vectors.ai" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/Free_Fir_Vectors/Free-Fir-Vectors.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/brigita-usman.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/colette-maher.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/eggo-email-signature.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/fb-icon-email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/fir1-icon-email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/fir2-icon-email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/fir3-icon-email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/in-icon-email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/mart-mcnamara.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.40.28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.41.26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.42.52.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.45.48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.46.56.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.49.41.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.51.57.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.55.16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.57.37.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/setting up instructions images/Screen Shot 2018-05-10 at 16.57.57.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/steve-cullen.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/steven-underwood.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-email/tw-icon-email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/B.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/C.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/M.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/eggo-logo-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/email-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/phone-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/pin-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/sketch1.0-homepage1.0-eggo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/su.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0-brackets/triangle-25x25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/app/controllers/Application.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/app/views/index.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/app/views/main.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/build.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/conf/application.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/conf/routes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/project/build.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/project/plugins.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/bckg-img.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/android-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/android-icon-192x192.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/android-icon-36x36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/android-icon-48x48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/android-icon-72x72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/android-icon-96x96.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-114x114.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-120x120.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-152x152.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-180x180.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-57x57.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-60x60.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-72x72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-76x76.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon-precomposed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/apple-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/browserconfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/favicon-16x16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/favicon-32x32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/favicon-96x96.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/manifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/ms-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/ms-icon-150x150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/ms-icon-310x310.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/images/favicon/ms-icon-70x70.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/javascripts/jquery-1.9.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/public/stylesheets/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/test/ApplicationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/test/IntegrationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-homepage-1.0/web/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-brackets/45345802_l.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-brackets/favicon-16x16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-brackets/page-under-construction.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-brackets/page-under-construction.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/app/controllers/Application.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/app/views/index.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/app/views/main.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/build.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/conf/application.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/conf/routes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/project/build.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/project/plugins.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/bckg-img.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/android-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/android-icon-192x192.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/android-icon-36x36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/android-icon-48x48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/android-icon-72x72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/android-icon-96x96.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-114x114.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-120x120.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-152x152.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-180x180.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-57x57.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-60x60.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-72x72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-76x76.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon-precomposed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/apple-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/browserconfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/favicon-16x16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/favicon-32x32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/favicon-96x96.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/manifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/ms-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/ms-icon-150x150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/ms-icon-310x310.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/images/favicon/ms-icon-70x70.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/javascripts/jquery-1.9.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/public/stylesheets/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/test/ApplicationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/test/IntegrationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../eggo-page-coming-soon-copy/web/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__cglib_cglib_nodep_2_1_3_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__ch_qos_logback_logback_classic_1_1_7_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__ch_qos_logback_logback_core_1_1_7_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_fasterxml_classmate_1_1_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_7_6_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_7_6_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_7_6_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_7_6_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_7_6_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_google_code_gson_gson_2_3_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_google_guava_guava_19_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_google_inject_extensions_guice_assistedinject_4_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_google_inject_guice_4_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_googlecode_usc_jdbcdslog_1_0_6_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_h2database_h2_1_4_192_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_jolbox_bonecp_0_8_0_RELEASE_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_11_2_4_10_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_akka_akka_slf4j_2_11_2_4_10_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_akka_akka_stream_2_11_2_4_10_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_config_1_3_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_netty_netty_reactive_streams_1_0_8_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_netty_netty_reactive_streams_http_1_0_8_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_build_link_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_cache_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_datacommons_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_exceptions_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_functional_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_iteratees_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_java_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_java_jdbc_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_java_ws_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_jdbc_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_jdbc_api_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_json_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_logback_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_netty_server_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_netty_utils_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_server_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_streams_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_test_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_play_ws_2_11_2_5_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_play_twirl_api_2_11_1_1_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_ssl_config_akka_2_11_0_2_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_typesafe_ssl_config_core_2_11_0_2_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__com_zaxxer_HikariCP_2_5_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__commons_logging_commons_logging_1_1_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__io_netty_netty_3_5_2_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__io_netty_netty_buffer_4_0_41_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__io_netty_netty_codec_4_0_41_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__io_netty_netty_codec_http_4_0_41_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__io_netty_netty_common_4_0_41_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__io_netty_netty_handler_4_0_41_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__io_netty_netty_transport_4_0_41_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__io_netty_netty_transport_native_epoll_4_0_41_Final_linux_x86_64_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__javax_el_javax_el_api_3_0_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__javax_transaction_jta_1_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__joda_time_joda_time_2_9_4_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__junit_junit_4_12_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__net_java_dev_jna_jna_4_1_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__net_java_dev_jna_jna_platform_4_1_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__net_jodah_typetools_0_4_4_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__net_sf_ehcache_ehcache_core_2_6_11_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__net_sourceforge_cssparser_cssparser_0_9_18_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_2_20_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_core_js_2_17_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__net_sourceforge_nekohtml_nekohtml_1_9_22_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__oauth_signpost_signpost_commonshttp4_1_2_1_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__oauth_signpost_signpost_core_1_2_1_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_apache_commons_commons_exec_1_3_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_4_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_0_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_0_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_4_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_apache_tomcat_tomcat_servlet_api_8_0_33_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_asynchttpclient_async_http_client_2_0_11_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_asynchttpclient_netty_codec_dns_2_0_11_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_asynchttpclient_netty_resolver_2_0_11_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_asynchttpclient_netty_resolver_dns_2_0_11_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_eclipse_jetty_jetty_io_9_2_15_v20160210_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_eclipse_jetty_jetty_util_9_2_15_v20160210_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_fluentlenium_fluentlenium_core_0_10_9_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_hibernate_hibernate_validator_5_2_4_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_javassist_javassist_3_20_0_GA_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_jboss_logging_jboss_logging_3_2_1_Final_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_joda_joda_convert_1_8_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_reflections_reflections_0_9_10_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_11_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_11_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_scala_stm_scala_stm_2_11_0_7_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_api_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_chrome_driver_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_edge_driver_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_firefox_driver_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_htmlunit_driver_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_ie_driver_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_java_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_leg_rc_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_remote_driver_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_safari_driver_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_support_2_48_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_21_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_21_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_21_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_springframework_spring_beans_4_2_7_RELEASE_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_springframework_spring_context_4_2_7_RELEASE_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_springframework_spring_core_4_2_7_RELEASE_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_w3c_css_sac_1_3_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_webbitserver_webbit_0_4_14_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__org_yaml_snakeyaml_1_16_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__tyrex_tyrex_1_0_1_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__xalan_serializer_2_7_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__xalan_xalan_2_7_2_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__xerces_xercesImpl_2_11_0_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/libraries/sbt__xml_apis_xml_apis_1_4_01_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/modules/test-build.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/modules/test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/play2_project_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/play2_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/sbt.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/scala_compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/app/controllers/Application.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/app/views/index.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/app/views/main.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/build.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/conf/application.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/conf/routes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/heroku_apps_list" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/build.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/plugins.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$2ca556f090314f5cd22b$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$2ca556f090314f5cd22b.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$2ca556f090314f5cd22b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$55e2963a3db90d1ebac9$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$55e2963a3db90d1ebac9$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$55e2963a3db90d1ebac9.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$55e2963a3db90d1ebac9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$d463841e3e1ff43a6af1$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$d463841e3e1ff43a6af1$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$d463841e3e1ff43a6af1.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/project/target/config-classes/$d463841e3e1ff43a6af1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$2bfbbde85fdb79e36a00$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$2bfbbde85fdb79e36a00$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$2bfbbde85fdb79e36a00.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$2bfbbde85fdb79e36a00.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$48b3fadb4c49b2b57678$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$48b3fadb4c49b2b57678$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$48b3fadb4c49b2b57678.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$48b3fadb4c49b2b57678.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$9ea2ab189cda9bc518d3$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$9ea2ab189cda9bc518d3$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$9ea2ab189cda9bc518d3.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$9ea2ab189cda9bc518d3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$a27631b06a77d80b1932$$anonfun$test$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$a27631b06a77d80b1932$$anonfun$test$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$a27631b06a77d80b1932$$anonfun$test$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$a27631b06a77d80b1932$$anonfun$test$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$a27631b06a77d80b1932$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$a27631b06a77d80b1932.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$a27631b06a77d80b1932.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$ad72b79bfb555e65a9cf$$anonfun$$sbtdef$1$$anonfun$apply$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$ad72b79bfb555e65a9cf$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$ad72b79bfb555e65a9cf$$anonfun$$sbtdef$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$ad72b79bfb555e65a9cf$$anonfun$$sbtdef$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$ad72b79bfb555e65a9cf$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$ad72b79bfb555e65a9cf.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$ad72b79bfb555e65a9cf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$d42b4c08c4aec4ac9b18$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$d42b4c08c4aec4ac9b18$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$d42b4c08c4aec4ac9b18.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$d42b4c08c4aec4ac9b18.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$e0794bab0a2dc030308d$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$e0794bab0a2dc030308d$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$e0794bab0a2dc030308d.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$e0794bab0a2dc030308d.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$eb03a14082464da1a6f7$$anonfun$$sbtdef$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$eb03a14082464da1a6f7$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$eb03a14082464da1a6f7.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/config-classes/$eb03a14082464da1a6f7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/default/homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/default/homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-docs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-sources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/default-homepage-1-0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427-build-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/ivy-report.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/resolution-cache/reports/ivy-report.xsl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/$global/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/compile/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/B.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/C.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/M.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/bckg-img.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/eggo-logo-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/email-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/android-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/android-icon-192x192.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/android-icon-36x36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/android-icon-48x48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/android-icon-72x72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/android-icon-96x96.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-114x114.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-120x120.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-152x152.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-180x180.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-57x57.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-60x60.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-72x72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-76x76.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon-precomposed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/apple-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/browserconfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/favicon-16x16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/favicon-32x32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/favicon-96x96.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/manifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/ms-icon-144x144.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/ms-icon-150x150.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/ms-icon-310x310.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/favicon/ms-icon-70x70.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/phone-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/pin-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/su.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/images/triangle-25x25.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/javascripts/jquery-1.9.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/public/stylesheets/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/ivy-report.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/ivy-report.xsl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-docs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-sources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test$sources_2.11-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-docs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-sources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/reports/test-test_2.11-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/test/test$sources_2.11/1.0/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/test/test$sources_2.11/1.0/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/test/test_2.11/1.0/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/resolution-cache/test/test_2.11/1.0/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/ivySbt/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/test/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/target/streams/test/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/test/ApplicationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/test/IntegrationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../homepage-1.0-1fbd74c9f009c1cd8e11453dd42e75c9950cf427/web/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/app/controllers/Application.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/app/views/index.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/app/views/main.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/build.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/conf/application.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/conf/routes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/project/build.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/project/plugins.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/public/images/favicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/public/javascripts/jquery-1.9.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/public/stylesheets/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/test/ApplicationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../my-app-1.0-play/test/IntegrationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/Module.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/controllers/AsyncController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/controllers/CountController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/controllers/HomeController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/filters/ExampleFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/services/ApplicationTimer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/services/AtomicCounter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/services/Counter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/views/index.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/views/main.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/app/views/welcome.scala.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/build.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/conf/application.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/conf/logback.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/conf/routes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/gradlew" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/play-java-starter-example.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/project/build.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/project/plugins.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/public/images/external.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/public/images/favicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/public/images/header-pattern.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/public/javascripts/hello.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/public/stylesheets/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/sbt-dist/bin/sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/sbt-dist/bin/sbt-launch-lib.bash" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/sbt-dist/bin/sbt-launch.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/sbt-dist/bin/sbt.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/sbt-dist/conf/sbtconfig.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/sbt-dist/conf/sbtopts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/sbt.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/scripts/script-helper" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/scripts/test-gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/scripts/test-sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/test/BrowserTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/test/FunctionalTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/test/UnitTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../templates/media-queries-cheat-sheet.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/test-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/test-build.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/play2_settings.xml" afterPath="$PROJECT_DIR$/.idea/play2_settings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$68cdf341b858e6205e21$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$68cdf341b858e6205e21$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$68cdf341b858e6205e21.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$68cdf341b858e6205e21.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$b99455eddd726608c994$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$b99455eddd726608c994.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$b99455eddd726608c994.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d1d9488449c9473d8334$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d1d9488449c9473d8334$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d1d9488449c9473d8334.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$d1d9488449c9473d8334.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0d8e61d8a16ba21baf7d$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0d8e61d8a16ba21baf7d$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0d8e61d8a16ba21baf7d.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0d8e61d8a16ba21baf7d.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3407a3a72d87a1a1e351$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3407a3a72d87a1a1e351$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3407a3a72d87a1a1e351$$anonfun$$sbtdef$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3407a3a72d87a1a1e351$$anonfun$$sbtdef$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3407a3a72d87a1a1e351$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3407a3a72d87a1a1e351.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3407a3a72d87a1a1e351.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$341cd3168e12d4e3fa17$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$341cd3168e12d4e3fa17$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$341cd3168e12d4e3fa17.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$341cd3168e12d4e3fa17.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$355e7d318bb76316e3b7$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$355e7d318bb76316e3b7$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$355e7d318bb76316e3b7.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$355e7d318bb76316e3b7.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f70205061ddc7aa6c19$$anonfun$test$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f70205061ddc7aa6c19$$anonfun$test$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f70205061ddc7aa6c19$$anonfun$test$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f70205061ddc7aa6c19$$anonfun$test$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f70205061ddc7aa6c19$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f70205061ddc7aa6c19.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f70205061ddc7aa6c19.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6d7d50dc58697d0785d2$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6d7d50dc58697d0785d2$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6d7d50dc58697d0785d2.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6d7d50dc58697d0785d2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7c5565ee17f12e6a7413$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7c5565ee17f12e6a7413$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7c5565ee17f12e6a7413.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7c5565ee17f12e6a7413.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c6eb6134006d9db295f$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c6eb6134006d9db295f$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c6eb6134006d9db295f.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c6eb6134006d9db295f.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-sources.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test$sources_2.11-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-sources.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/test-test_2.11-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/test/test$sources_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/test/test$sources_2.11/1.0/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/test/test$sources_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/test/test$sources_2.11/1.0/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/test/test_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/test/test_2.11/1.0/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/test/test_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/test/test_2.11/1.0/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../app/controllers/Application.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../app/views/index.scala.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../app/views/main.scala.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../build.sbt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../conf/application.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../conf/routes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/build.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/plugins.sbt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/bckg-img.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/android-icon-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/android-icon-192x192.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/android-icon-36x36.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/android-icon-48x48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/android-icon-72x72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/android-icon-96x96.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-114x114.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-120x120.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-152x152.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-180x180.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-57x57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-60x60.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-72x72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-76x76.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/apple-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/browserconfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/favicon-96x96.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/ms-icon-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/ms-icon-150x150.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/ms-icon-310x310.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/images/favicon/ms-icon-70x70.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/javascripts/jquery-1.9.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../public/stylesheets/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test/ApplicationTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test/IntegrationTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../web/index.jsp" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,8 +744,8 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="135">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,7 +778,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -118,10 +812,10 @@
   <component name="Play2ProjectSettings">
     <option name="LANGUAGE_IMPORTS">
       <array>
-        <option value="play.data._" />
         <option value="play.api.data.Field" />
-        <option value="scala.collection.JavaConversions._" />
+        <option value="play.data._" />
         <option value="play.api.templates.PlayMagic._" />
+        <option value="scala.collection.JavaConversions._" />
         <option value="java.lang._" />
         <option value="play.mvc._" />
         <option value="play.core.j.PlayMagicForJava._" />
@@ -131,9 +825,11 @@
       </array>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="50" />
+    <option name="y" value="22" />
+    <option name="width" value="1630" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -153,7 +849,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,9 +871,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,7 +1001,7 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1527243992859" />
+    <option name="lastUpdateTimestamp" value="1527360693366" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -373,18 +1069,19 @@
       <workItem from="1525266516381" duration="22000" />
       <workItem from="1526988271591" duration="578000" />
       <workItem from="1527243246595" duration="398000" />
+      <workItem from="1527360656349" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30526000" />
+    <option name="totallyTimeSpent" value="30589000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="22" width="1628" height="1028" extended-state="6" />
+    <frame x="50" y="22" width="1630" height="1028" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.5075662" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.51007557" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -403,8 +1100,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5031526" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.4924338" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23896596" sideWeight="0.7679389" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.48992443" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2418136" sideWeight="0.7679389" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -779,8 +1476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state relative-caret-position="135">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
