@@ -560,6 +560,8 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../../play-java-starter-example/test/UnitTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../../templates/media-queries-cheat-sheet.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../app/controllers/Application.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../app/views/index.scala.html" afterPath="" />
@@ -629,7 +631,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/index.scala.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -752,18 +754,7 @@
           <expand>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage-1.0" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -964,12 +955,12 @@
       <workItem from="1526988271591" duration="578000" />
       <workItem from="1527243246595" duration="398000" />
       <workItem from="1527360656349" duration="1064000" />
-      <workItem from="1527362003241" duration="154000" />
+      <workItem from="1527362003241" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31744000" />
+    <option name="totallyTimeSpent" value="32005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="22" width="1630" height="1028" extended-state="0" />
@@ -1372,7 +1363,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/index.scala.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
